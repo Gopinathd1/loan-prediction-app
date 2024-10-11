@@ -32,5 +32,4 @@ The Loan Approval Prediction App is a web application that predicts whether a lo
    
 2. Click the **Predict** button to see the result.
 
-   git clone https://github.com/Gopinathd1/loan-prediction-app.git
-   cd loan-prediction-app
+  
